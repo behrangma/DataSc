@@ -11,5 +11,5 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 1. Unzip the file into your local drive.
 2. Put run_analysis.R in the same directory.
 3. Change your R path to the directory which you uploaded the file using setwd("path").
-4. type source("run_analysis.R")
-5. the ouput is saved in the file newdata.txt
+4. Type source("run_analysis.R") in R.
+5. The ouput is saved in the file newdata.txt.
